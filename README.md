@@ -24,7 +24,7 @@ meteor npm install --save uploadcare-widget
 ```
 * Install Babel compiler
 ```
-You might have to run meteor npm install --save babel-runtime
+meteor npm install --save babel-runtime
 ```
 
 ## Settings
