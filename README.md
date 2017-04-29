@@ -22,6 +22,10 @@ meteor npm install --save react react-dom
 ```
 meteor npm install --save uploadcare-widget
 ```
+* Install Babel compiler
+```
+You might have to run meteor npm install --save babel-runtime
+```
 
 ## Settings
 
@@ -31,8 +35,7 @@ Set your
 
 ## Run
 
-Running the demo is simple.
-Please, run `npm start` and head over
+Type `meteor` in your terminal, hit enter and head over
 to [http://localhost:3000](http://localhost:3000) using your browser.
 
 ## Contributors
